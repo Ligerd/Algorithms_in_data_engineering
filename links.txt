@@ -5,3 +5,5 @@ https://blog.rogerluo.me/2019/07/27/yassad/
 https://arxiv.org/abs/1811.05031v2
 
 https://arxiv.org/ftp/arxiv/papers/1904/1904.02136.pdf
+
+https://blog.demofox.org/2014/12/30/dual-numbers-automatic-differentiation/
