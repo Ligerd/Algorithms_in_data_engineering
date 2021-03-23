@@ -18,3 +18,6 @@ https://arxiv.org/pdf/1502.05767.pdf
 https://www.cs.princeton.edu/courses/archive/fall18/cos324/files/backprop.pdf
 
 https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf
+
+
+https://towardsdatascience.com/build-your-own-automatic-differentiation-program-6ecd585eec2a
