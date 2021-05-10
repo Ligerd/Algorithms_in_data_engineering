@@ -1,0 +1,33 @@
+Informacje ogólne:
+[ ] Czy zaznaczono informację o autorach?
+
+ 
+
+Zależności i odwołania:
+[ ] Czy posiada informacje o wykorzystanych pakietach (wraz z wersjami)?
+[ ] Czy wyraźnie zaznaczono na podstawie jakich opracowań przygotowano kod?
+[ ] Czy posiada bibliografię odpowiedniej jakości?
+
+ 
+
+Implementacja:
+[ ] Czy pokazuje działający kod? Jak bardzo zaawansowany?
+  - kod powinien być bardziej zaawansowany niż ten przedstawiony na wykładzie)
+
+ 
+
+Weryfikacja działania:
+[ ] Czy wyniki odpowiednio zweryfikowane z teorią lub innym pakietem obliczeniowym?
+[ ] Czy wyniki przedstawione w czytelnej formie?
+[ ] Czy dane wejściowe są odpowiednio przygotowane?
+[ ] Czy testy odpowiednio opisane?
+  - np. czy wiadomo jak mierzony jest błąd?
+  - np. czy wiadomo jak wystartowano algorytm iteracyjny?
+[ ] Czy odpowiednio przeprowadzono pomiary wydajności kodu? 
+  - np. jednokrotne wywołanie @time jest niemiarodajne;
+  - np. czy zawarto informacje o platformie testowej?
+
+ 
+
+Podsumowanie:
+[ ] Czy zawarto wnioski?
